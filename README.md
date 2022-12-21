@@ -1,9 +1,7 @@
 # programmering-1
 
-Console program
+1. Grunderna till matematik i programmering
 
-Vid start följ hänvisningarna.
+2. If/else statement
 
-Rekomenderat vid denna uppdatering att mata in värdena årsmodell i rätt förmat annars tillkommer en bugg.
-
-koden är även inte komplett då det saknas "content" till sista delen.
+3. Variabel hantering
